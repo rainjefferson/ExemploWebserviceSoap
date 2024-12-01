@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeffe\\Desktop\\WebService_Example\\ConsoleConsomeWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E29DA53-BB13-4C31-B476-5A37F01819E2}|ConsoleConsomeWS\\ConsoleConsomeWS.csproj|c:\\users\\jeffe\\desktop\\webservice_example\\consoleconsomews\\consoleconsomews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E29DA53-BB13-4C31-B476-5A37F01819E2}|ConsoleConsomeWS\\ConsoleConsomeWS.csproj|solutionrelative:consoleconsomews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E29DA53-BB13-4C31-B476-5A37F01819E2}|ConsoleConsomeWS\\ConsoleConsomeWS.csproj|c:\\users\\jeffe\\desktop\\webservice_example\\consoleconsomews\\consoleconsomews\\connected services\\servicereferencewsexemplo\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E29DA53-BB13-4C31-B476-5A37F01819E2}|ConsoleConsomeWS\\ConsoleConsomeWS.csproj|solutionrelative:consoleconsomews\\connected services\\servicereferencewsexemplo\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\WebService_Example\\ConsoleConsomeWS\\ConsoleConsomeWS\\Connected Services\\ServiceReferenceWSExemplo\\Reference.cs",
+              "RelativeDocumentMoniker": "ConsoleConsomeWS\\Connected Services\\ServiceReferenceWSExemplo\\Reference.cs",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\WebService_Example\\ConsoleConsomeWS\\ConsoleConsomeWS\\Connected Services\\ServiceReferenceWSExemplo\\Reference.cs",
+              "RelativeToolTip": "ConsoleConsomeWS\\Connected Services\\ServiceReferenceWSExemplo\\Reference.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:34:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\WebService_Example\\ConsoleConsomeWS\\ConsoleConsomeWS\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleConsomeWS\\Program.cs",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\WebService_Example\\ConsoleConsomeWS\\ConsoleConsomeWS\\Program.cs",
+              "RelativeToolTip": "ConsoleConsomeWS\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswD4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:58:18.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
